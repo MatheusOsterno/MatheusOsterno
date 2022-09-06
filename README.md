@@ -11,7 +11,7 @@ Iai, eu sou Matheus Osterno, apaixonado por games e progamação!
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Osterno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Osterno-VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/VUE-plain.svg">
+  <img align="center" alt="Osterno-VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/VUE-plain.svg">
   <img align="center" alt="Osterno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Osterno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
