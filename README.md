@@ -1,7 +1,7 @@
 Iai, eu sou Matheus Osterno, apaixonado por games e progamação!
 - Sempre em busca de novos conhecimentos.
 - Atualmente em busca de trabalho na área.
-- 
+
   ##
   
 <div align="center">
