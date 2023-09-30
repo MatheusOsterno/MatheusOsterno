@@ -11,10 +11,8 @@ Iai, eu sou Matheus Osterno, apaixonado por games e progamação!
   <img align="left" margin-top="160px" height="170em" src="https://github-readme-stats.vercel.app/api?username=matheusosterno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="left" alt="Osterno-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/318968437714190339/999661613575581736/Matheus_Gaviao.png?width=671&height=671">
 </div>
-
-  
+ 
   ##
-
  
 <div> 
   <a href="https://www.matheusosterno.com/" target="_blank"><img src="https://img.shields.io/badge/-Site-%230077B5?style=for-the-badge&logo=Site&logoColor=white" target="_blank"></a> 
