@@ -12,7 +12,6 @@ Iai, eu sou Matheus Osterno, apaixonado por games e progamação!
  
   ##
 
- 
 <div> 
   <a href="https://www.matheusosterno.com/" target="_blank"><img src="https://img.shields.io/badge/-Site-%230077B5?style=for-the-badge&logo=Site&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCeQV3HOLpSjj3YzsMVo99_Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
